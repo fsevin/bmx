@@ -3,3 +3,13 @@
     "host": "www.bmx.prod",
     "plugins": []
   }
+
+  {
+    "plugins": [
+      {
+        "id": "foo",
+        "title": "Foo",
+        "url": "/tools/sidekick/foo.html"
+      },
+    ]
+  }
